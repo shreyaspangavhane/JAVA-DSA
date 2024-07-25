@@ -1,1 +1,1 @@
-<h1>Data Structures and Algorithms In Java</h1>
+<h2>Data Structures and Algorithms In Java</h2>
