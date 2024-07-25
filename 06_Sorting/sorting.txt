@@ -1,0 +1,21 @@
+sorting ==>> Sort the element in there asscending order;
+
+types=>> 
+       1) Bubble sort--> 
+              compare the adjecent element
+              comparision(passes) =n-1 passes
+              Time Complexity= O(n^2)
+
+       2) Insertion sort --> 
+              Assume the first element is always sorted and to compare to next element and divide array into two parts sorted and unsorted.
+
+       3) Selection sort-->>
+              Assume 1st element is smallest then compare to adjcent :
+                     i) if Number is large compare to adjcent then swap directly to that index.
+                     ii) if Number is not large then again compare to their correspoendes adjcent element.
+
+       4) Merge sort -->>(directlyivide and Conqure)
+              divide the array util it will one element in that array then start compare.
+
+       5) Quick Sort-->> (Pivot & Partition)
+              

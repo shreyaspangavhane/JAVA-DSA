@@ -1,0 +1,42 @@
+post increment:  (a++)
+    i)  use value 
+    ii) Change value
+
+    e.g     int a=10;
+            int b=0; 
+            b=a++;
+            print(b)     //value of b is 10
+            print(a)    //value of b is 11
+__________________________________________________
+pre increment:      (++a) 
+    i)  change value
+    ii) use value
+
+    e.g    int a=10;
+           int b=0;
+           b=++a;
+           print(b)     //value of b is 11.
+           print(a)     //value of a is also 11.
+__________________________________________________
+--------------------------------------------------
+post decrement:  (a--)
+    i)  use value 
+    ii) Change value
+
+    e.g     int a=10;
+            int b=0; 
+            b=a--;
+            print(b)     //value of b is 10
+            print(a)    //value of b is 9
+__________________________________________________
+pre decrement:      (++a) 
+    i)  change value
+    ii) use value
+
+    e.g    int a=10;
+           int b=0;
+           b=--a;
+           print(b)     //value of b is 9.
+           print(a)     //value of a is also 9.
+
+        

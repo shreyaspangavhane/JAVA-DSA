@@ -1,0 +1,10 @@
+What is HASHMAP:    (key-value pair data storage)
+    it is used to stored the data which is in form of key-value pair.
+
+    -->> Key is always Unique;
+    -->> value is Same akso unique also;
+
+    it is unorder map (Sequence doesnot matter)
+
+
+    

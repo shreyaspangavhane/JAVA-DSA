@@ -1,0 +1,14 @@
+array list:-
+    ArrayList, as the name suggests, provides the functionality of a dynamic array where the size is not fixed as an array.
+        operation: 
+            1. add
+            2. get record
+            3. delete /remove
+            4. modified
+            5. Iterator / other operation
+
+            import package:   import.java.util.ArrayList
+
+            time complexity of:
+                1. search -> O(1);
+                2. Insert -> O(n)

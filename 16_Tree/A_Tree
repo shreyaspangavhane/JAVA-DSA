@@ -1,0 +1,20 @@
+tree data structure is a hierarchical structure
+
+
+Binary tree: In a binary tree, each node can have a maximum of two children linked to it.
+
+Ternary Tree: A Ternary Tree is a tree data structure in which each node has at most three child nodes, usually distinguished as “left”, “mid” and “right”.
+
+** Basic Operation Of Tree Data Structure:
+
+1. Create – create a tree in the data structure.
+
+2. Insert − Inserts data in a tree.
+
+3. Search − Searches specific data in a tree to check whether it is present or not.
+
+4. Traversal:
+    1. Preorder Traversal – perform Traveling a tree in a pre-order manner in the data structure.
+
+    2. In order Traversal – perform Traveling a tree in an in-order manner.
+    3. Post-order Traversal –perform Traveling a tree in a post-order manner.

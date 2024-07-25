@@ -1,0 +1,13 @@
+Array List:
+    time complexity of:
+                1. search -> O(1);
+                2. Insert -> O(n)
+
+Linked List:
+    time complexity of:
+        1. search -> O(n);
+        2. Insert -> O(1)
+
+    insert and search cases: 
+        1. if we want to add or insert element in list then we use Linked list;
+        2. if we want to add or search element in list then we use Array list

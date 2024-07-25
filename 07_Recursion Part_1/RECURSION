@@ -1,0 +1,18 @@
+RECURSUION  >>> calling of function itself 
+
+public class  class_name{
+    public static void method_name(parameters){
+        if (condition) {      //base case condition which are in for loop   
+            return ;
+        }
+        //Write the statement of which are present inside the for loop
+        
+        System.out.println(n);   //print
+        method_name(parameter inthat changes);     //Recursion   - function call itself
+    }
+    
+    
+    public static void main(String[] args) {
+            method_name(parameter value)     //call
+    }
+}
